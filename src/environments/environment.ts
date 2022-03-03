@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  urlVivaExternal : 'https://webprojects.rocks/clientes/duende/landingvivaair/html/index.html',
+  urlVivaExternalEnglish: 'https://webprojects.rocks/clientes/duende/landingvivaair/html/index-en.html'
 };
 
 /*
